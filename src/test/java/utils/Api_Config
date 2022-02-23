@@ -1,0 +1,15 @@
+URI=https://jobs123.herokuapp.com/Jobs
+
+invalidURI=https://jobs123.herokuapp.com/Jo
+
+Jobid_Delete=1132
+
+Jobid_delete_newId=20501
+
+Jobid_Put=32515
+
+JobTitle_Put=TE
+
+LMS_URI=https://lms-admin-rest-service.herokuapp.com/programs
+
+LMS_prgId=5859632
